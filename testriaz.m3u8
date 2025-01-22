@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=m241228343932464&password=111111&stream=4354.ts
+http://iptv12k.com:35461/streaming/clients_live.php?extension=m3u8&username=m241228343932464&password=111111&stream=4354.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=m241228343932464&password=111111&stream=4354.ts
+http://iptv12k.com:35461/streaming/clients_live.php?extension=m3u8&username=m241228343932464&password=111111&stream=4354.m3u8
