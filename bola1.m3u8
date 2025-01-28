@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://15.235.144.67:35461/streaming/clients_live.php?extension=m3u8&username=654321&password=123456&stream=688.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000001
+http://15.235.144.67:35461/streaming/clients_live.php?extension=m3u8&username=654321&password=123456&stream=688.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000002
+http://iptv12k.com:35461/streaming/clients_live.php?extension=m3u8&username=m241228343932464&password=111111&stream=20630.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000003
+http://iptv12k.com:35461/streaming/clients_live.php?extension=m3u8&username=m241228343932464&password=111111&stream=20630.m3u8
