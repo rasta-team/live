@@ -2,7 +2,7 @@
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:dashif="https://dashif.org/" xmlns:scte214="urn:scte:dash:scte214-extensions" xmlns:scte35="http://www.scte.org/schemas/35/2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" availabilityStartTime="2025-03-04T16:25:41Z" maxSegmentDuration="PT6.016S" minBufferTime="PT6S" minimumUpdatePeriod="PT18S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2025-03-16T22:06:38Z" timeShiftBufferDepth="PT7200.0S" type="dynamic" xsi:schemalocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd http://dashif.org/guidelines/ContentProtection laurl.xsd">
    <BaseURL>http://58.26.7.125/PLTV/88888888/224/3221225716/</BaseURL>
    <Period id="P0" start="PT0S">
-      <AdaptationSet contentType="video" id="0" maxFrameRate="25" maxHeight="1080" maxWidth="1920" mimeType="video/mp4" minFrameRate="25" minHeight="270" minWidth="480" par="16:9" segmentAlignment="true" startWithSAP="1">
+      <AdaptationSet contentType="video" id="0" maxFrameRate="25" maxHeight="576" maxWidth="1024" mimeType="video/mp4" minFrameRate="25" minHeight="270" minWidth="480" par="16:9" segmentAlignment="true" startWithSAP="1">
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
          <ContentProtection schemeIdUri="urn:uuid:9a27dd82-fde2-4725-8cbc-4234aa06ec09">
             <cenc:pssh>AAAA9nBzc2gAAAAAmifdgv3iRyWMvEI0qgbsCQAAANY8VmVyaW1hdHJpeD48UHNzaCB2ZXJzaW9uPSIxIj48S2V5VXJsPjwhW0NEQVRBW2h0dHBzOi8vMS45LjU4LjExMy9DQUIva2V5ZmlsZT9zPTM1OSZyPTExMjU1JnQ9RFRWJnA9MTc0MTEwNTUxMiZrYz0zRkNFNURCQ0Y5MTUxMUVGOEQ0QjNDNzg0MzgwNzhCRSZrZD0wNDYxRDE1QjI2RTg5MkU0Njk0QTVCNzE0RjVCMzlDMV1dPjwvS2V5VXJsPjwvUHNzaD48L1ZlcmltYXRyaXg+</cenc:pssh>
