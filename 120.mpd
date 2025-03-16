@@ -59,5 +59,18 @@
             <SegmentTemplate duration="6000000" initialization="audio-0-$RepresentationID$-init.m4i?hw_dash=1&amp;servicetype=1" media="audio-0-$RepresentationID$-$Number$.m4a?hw_dash=1&amp;servicetype=1" startNumber="1" timescale="1000000"/>
          </Representation>
       </AdaptationSet>
+      <AdaptationSet contentType="text" id="2" lang="may" mimeType="application/mp4" segmentAlignment="true" startWithSAP="1">
+         <Role schemeIdUri="urn:mpeg:dash:role:2011" value="caption"/>
+        <Accessibility schemeIdUri="urn:mpeg:dash:role:2011" value="caption"/>
+        <Representation bandwidth="50000" codecs="stpp" id="Data3_9">
+            <SegmentTemplate duration="6000000" initialization="data-0-$Bandwidth$-init.m4i?hw_dash=1&servicetype=1" media="data-0-$Bandwidth$-$Number$.m4s?hw_dash=1&servicetype=1" startNumber="1" timescale="1000000"/>
+         </Representation>
+      </AdaptationSet>
+      <AdaptationSet contentType="text" id="3" lang="eng" mimeType="application/mp4" segmentAlignment="true" startWithSAP="1">
+         <Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate"/>
+         <Representation bandwidth="50000" codecs="stpp" id="Data4_10">
+             <SegmentTemplate duration="6000000" initialization="data-1-$Bandwidth$-init.m4i?hw_dash=1&servicetype=1" media="data-1-$Bandwidth$-$Number$.m4s?hw_dash=1&servicetype=1" startNumber="1" timescale="1000000"/>
+         </Representation>
+     </AdaptationSet>
    </Period>
 </MPD>
