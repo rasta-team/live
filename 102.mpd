@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:dashif="https://dashif.org/" xmlns:scte214="urn:scte:dash:scte214-extensions" xmlns:scte35="http://www.scte.org/schemas/35/2016" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" availabilityStartTime="2025-03-11T16:34:10Z" maxSegmentDuration="PT6.016S" minBufferTime="PT6S" minimumUpdatePeriod="PT18S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2025-03-14T09:19:13Z" timeShiftBufferDepth="PT50.0S" type="dynamic" xsi:schemalocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd http://dashif.org/guidelines/ContentProtection laurl.xsd">
-   <BaseURL>https://webr24.hypp.tv/PLTV/88888888/224/3221225750/</BaseURL>
+   <BaseURL>https://webr24.hypp.tv/PLTV/88888888/224/3221225754/</BaseURL>
    <Period id="P0" start="PT0S">
       <AdaptationSet contentType="video" id="0" maxFrameRate="25" maxHeight="1080" maxWidth="1920" mimeType="video/mp4" minFrameRate="25" minHeight="270" minWidth="480" par="16:9" segmentAlignment="true" startWithSAP="1">
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
