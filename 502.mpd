@@ -39,14 +39,19 @@
             <SegmentTemplate duration="6000000" initialization="video-$RepresentationID$-init.m4i?hw_dash=1&amp;servicetype=1" media="video-$RepresentationID$-$Number$.m4v?hw_dash=1&amp;servicetype=1" startNumber="1" timescale="1000000"/>
          </Representation>
       </AdaptationSet>
-      <AdaptationSet contentType="audio" id="2" lang="msa" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <AdaptationSet contentType="audio" id="1" lang="eng" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
          <ContentProtection schemeIdUri="urn:uuid:9a27dd82-fde2-4725-8cbc-4234aa06ec09">
             <cenc:pssh>AAAA9nBzc2gAAAAAmifdgv3iRyWMvEI0qgbsCQAAANY8VmVyaW1hdHJpeD48UHNzaCB2ZXJzaW9uPSIxIj48S2V5VXJsPjwhW0NEQVRBW2h0dHBzOi8vMS45LjU4LjExMy9DQUIva2V5ZmlsZT9zPTM1OSZyPTExMTkyJnQ9RFRWJnA9MTc0MTcxMDgyNCZrYz05OTZFRkUwRUZFOTYxMUVGOUFCMjAwMkVDN0MxNERBQyZrZD0xQUM4OTdEQTA1NjEyQ0E3OTU2RDlEN0VFNTdDMDU1M11dPjwvS2V5VXJsPjwvUHNzaD48L1ZlcmltYXRyaXg+</cenc:pssh>
-         </ContentProtection>
+      </ContentProtection>
+         </Representation>
+      </AdaptationSet>
+      <AdaptationSet contentType="audio" id="2" lang="msa" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+         <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
+         <ContentProtection schemeIdUri="urn:uuid:9a27dd82-fde2-4725-8cbc-4234aa06ec09">
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
          <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
-            <cenc:pssh>AAAATHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAACwIARIQe3u4/Ud07hrDVPaFcRTNQRoAIg1yPTExMTkyJnM9MzU5KgVTRF9IRA==</cenc:pssh>
+            <cenc:pssh>AAAA9nBzc2gAAAAAmifdgv3iRyWMvEI0qgbsCQAAANY8VmVyaW1hdHJpeD48UHNzaCB2ZXJzaW9uPSIxIj48S2V5VXJsPjwhW0NEQVRBW2h0dHBzOi8vMS45LjU4LjExMy9DQUIva2V5ZmlsZT9zPTM1OSZyPTExMTYyJnQ9RFRWJnA9MTc0MTUzNzc0MSZrYz05QkUxODU4OEZEMDMxMUVGOEQ0QjNDNzg0MzgwNzhCRSZrZD0wQTA4NTQ1NzJCQTFGNERBNEYyRTQ3QTM3QTUxOTY0Q11dPjwvS2V5VXJsPjwvUHNzaD48L1ZlcmltYXRyaXg+</cenc:pssh>
          </ContentProtection>
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
          <ContentProtection xmlns:mspr="urn:microsoft:playready" schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" value="MSPR 2.0">
