@@ -39,7 +39,7 @@
             <SegmentTemplate duration="6000000" initialization="video-$RepresentationID$-init.m4i?hw_dash=1&amp;servicetype=1" media="video-$RepresentationID$-$Number$.m4v?hw_dash=1&amp;servicetype=1" startNumber="1" timescale="1000000"/>
          </Representation>
       </AdaptationSet>
-      <AdaptationSet contentType="audio" id="2" lang="may" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <AdaptationSet contentType="audio" id="1" lang="may" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
          <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
          <ContentProtection schemeIdUri="urn:uuid:9a27dd82-fde2-4725-8cbc-4234aa06ec09">
             <cenc:pssh>AAAA9nBzc2gAAAAAmifdgv3iRyWMvEI0qgbsCQAAANY8VmVyaW1hdHJpeD48UHNzaCB2ZXJzaW9uPSIxIj48S2V5VXJsPjwhW0NEQVRBW2h0dHBzOi8vMS45LjU4LjExMy9DQUIva2V5ZmlsZT9zPTM1OSZyPTExMDU0JnQ9RFRWJnA9MTc0MTUzNjg5OSZrYz1BNjdERTU1NkZEMDExMUVGOUFCMTAwMkVDN0MxNERBQyZrZD1BRThDMjg5RDRCRDhFOEE0MThCNzk2QTlCMzkxRjMzRl1dPjwvS2V5VXJsPjwvUHNzaD48L1ZlcmltYXRyaXg+</cenc:pssh>
