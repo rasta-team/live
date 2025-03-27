@@ -35,7 +35,7 @@
          <Representation bandwidth="2500000" codecs="avc1.64001f" frameRate="25" height="720" id="Video1_6" sar="0:0" scanType="progressive" width="1280">
             <SegmentTemplate duration="6000000" initialization="video-$RepresentationID$-init.m4i?hw_dash=1&amp;servicetype=1" media="video-$RepresentationID$-$Number$.m4v?hw_dash=1&amp;servicetype=1" startNumber="1" timescale="1000000"/>
          </Representation>
-         <Representation bandwidth="3500000" codecs="avc1.640028" frameRate="25" height="1080" id="Video1_7" sar="0:0" scanType="progressive" width="1920">
+         <Representation bandwidth="5000000" codecs="avc1.640028" frameRate="25" height="1080" id="Video1_7" sar="0:0" scanType="progressive" width="1920">
             <SegmentTemplate duration="6000000" initialization="video-$RepresentationID$-init.m4i?hw_dash=1&amp;servicetype=1" media="video-$RepresentationID$-$Number$.m4v?hw_dash=1&amp;servicetype=1" startNumber="1" timescale="1000000"/>
          </Representation>
       </AdaptationSet>
