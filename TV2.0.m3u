@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 group-title="Free TV" ch-number="101" tvg-id="101.unifi" tvg-chno="101" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/tv1_0.png",TV1
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV1)/master.mpd
+
+
+#EXTINF:-1 group-title="Free TV" tvg-id="102.unifi" tvg-chno="102" ch-number="102" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/tv2_0.png",TV2
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV2)/master.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzUzNmNkNGItYTRkYS0zOWE4LWJiYjItYTFmODUwMmM3NjQw
+#EXTINF:-1 group-title="Free TV" tvg-id="TV3" tvg-chno="103" ch-number="103" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/tv3_0.png",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+https://raw.githubusercontent.com/Streamy-sudo/live/7de0de9f67095ba29d25c5444337dc96e927be27/tv3.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzUzNmNkNGItYTRkYS0zOWE4LWJiYjItYTFmODUwMmM3NjQw
+#EXTINF:-1 group-title="Free TV" tvg-id="DidikTVKPM" tvg-chno="107" ch-number="107" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/didik_0.png",DidikTV KPM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+https://unifi-live06.secureswiftcontent.com/UnifiHD/live06.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzUzNmNkNGItYTRkYS0zOWE4LWJiYjItYTFmODUwMmM3NjQw
+#EXTINF:-1 group-title="Free TV" tvg-id="108.unifi" tvg-chno="108" ch-number="108" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/8tv_0.png",8TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzUzNmNkNGItYTRkYS0zOWE4LWJiYjItYTFmODUwMmM3NjQw
+#EXTINF:-1 group-title="Free TV" tvg-id="TV9" tvg-chno="109" ch-number="109" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/tv9_0.png",TV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzUzNmNkNGItYTRkYS0zOWE4LWJiYjItYTFmODUwMmM3NjQw
+#EXTINF:-1 group-title="Malay" tvg-id="113.unifi" tvg-chno="113" ch-number="113" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/salam_0.png",Salam HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#https://raw.githubusercontent.com/Streamy-sudo/live/a035283d1dbc369a409f7c1d859b159fbeb10637/113.mpd
+https://unifi-live32.secureswiftcontent.com/UnifiHD/live32.mpd
+
+
+#EXTINF:-1 group-title="Free TV" tvg-id="114.unifi" tvg-chno="114" ch-number="114" tvg-logo="https://unifi.com.my/tv/sites/default/files/2022-08/tv-alhijrah_0.png",TV AlHijrah HD
+https://mana2.lu-mau-apaan-sih-waduhhh.workers.dev/tv-alhijrah/index.m3u8
+
+
+MYTVMANA2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/rkagvc.png",Rock Action
+https://slive.mana2.my/RockAction/index.mpd?hdnts=st=1749618261~exp=1749639861~acl=!*/RockAction/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_92_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_92_-1~hmac=e9a0d8e05cb4f44d89721d526a5989d282dfcfc38649dba521ed1c3c8d4bce65
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/lkewrs.png",Rock Entertainment
+https://slive.mana2.my/RockEntertainment/index.mpd?hdnts=st=1749625459~exp=1749647059~acl=!*/RockEntertainment/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_93_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_93_-1~hmac=f737d66dc13e6fd2839fc6308073a4bc32d82f1d4b3d62c02a154b1e90db3935
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zmrxkh.png",ANIPLUS
+https://slive.mana2.my/AniPlus/index.mpd?hdnts=st=1749625865~exp=1749647465~acl=!*/AniPlus/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_94_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_94_-1~hmac=5ab46a860ec1b305da59c7280a247e54e3d083e65f22f3be4aa314298800f7f0:
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/cnsmrs.png",ONE HD
+https://slive.mana2.my/OneHD/index.mpd?hdnts=st=1749626066~exp=1749647666~acl=!*/OneHD/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_95_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_95_-1~hmac=e7a13de38342d62b5fdd5dce4d74c025abeea7a22cc00cbcf8ff007f047b71aa
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/usftlv.png",DRAMA CHANNEL
+https://slive.mana2.my/DramaChannel/index.mpd?hdnts=st=1749645792~exp=1749667392~acl=!*/DramaChannel/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_96_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_96_-1~hmac=8f03e84fe1a12587f61dd97d9359404c867a3f19cfb769adf4984b7e572f908b
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zoo-moo.png",ZOO MOO
+https://slive.mana2.my/ZooMoo/index.mpd?hdnts=st=1749646200~exp=1749667800~acl=!*/ZooMoo/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_97_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_97_-1~hmac=7a348e6fe9a43a4768cc76915dfc3bf26cd9488d6edceb48b3b88f8aea7e7db6
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xnxhys.png",KCM
+https://slive.mana2.my/Kcm/index.mpd?hdnts=st=1749646364~exp=1749667964~acl=!*/Kcm/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_98_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.119_mytv_1_channel_98_-1~hmac=3116c05e7a637c56a192dc3d4a0aef7785fbde8fa71b70da6ab65ff86127a34c
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/yvihqc.png",GLOBAL TREKKER
+https://slive.mana2.my/GlobalTrekker/index.mpd?hdnts=st=1749646524~exp=1749668124~acl=!*/GlobalTrekker/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_99_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_99_-1~hmac=4f18b63c67279b78e1f40284db09030e6e58995c138ca8ae55fdd1e54a249241
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/euronews.png",EURONEWS
+https://slive.mana2.my/EuroNews/index.mpd?hdnts=st=1749646648~exp=1749668248~acl=!*/EuroNews/*!/payload/yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_100_-1/*~data=yupptvott_5_25058_a46b5d78-a4e0-9312-5fcb-b658136e6003_MY_14.1.246.195_mytv_1_channel_100_-1~hmac=c532e0d7d7210b74f54c2c002ebfbaaffdf154931d69121dd3cd5f33bc52d894
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.mana2.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 13904.97.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.167 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/proxy?pX=4FBC27
+#EXTINF:-1 tvg-id="" group-title="My TV Mana2" ch-number="999" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/xvupdi.png",SPOTV NOW
+https://mana2.worst.workers.dev/SPOTV1/index.m3u8
