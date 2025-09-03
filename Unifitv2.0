@@ -17,14 +17,14 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV2)/master
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=CE43641A-061A-44FB-9D95-D986CFC9A68F&ptoken=eyJjb250ZW50SWQiOiJDRTQzNjQxQS0wNjFBLTQ0RkItOUQ5NS1EOTg2Q0ZDOUE2OEYiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc1NjkyODk2MTM2NCwiZW50aXRsZWRDb250ZW50SWRzIjoiUTBVME16WTBNVUV0TURZeFFTMDBORVpDTFRsRU9UVXRSRGs0TmtOR1F6bEJOamhHIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiYWEzNzVhYzgzNTUxNzEzMzVhNzQ5MzNhYmYyZTQ4YTEyNzc0YzgwNTBmMTY1MGNmZDBjZTJhMjEwMTI0NjdiYiIsInVuaXF1ZUlkIjoiNjM4Nzk4NTMtNjhjYy00MGM2LTliZTgtYzhlNjljMTk1YmU5IiwiaXNzdWVyIjoiU0lHTktFWV9QVE9LRU5fQ09OU1VNRV9JU1NVRVIiLCJhcGlLZXkiOiJhcGlLZXkiLCJrZXlWZXJzaW9uIjoidmVyczAxIiwiZXhwaXJ5VGltZSI6MTc1Njg4NTgyMTM2NCwiY3JlYXRlZFRpbWUiOjE3NTY4ODU3NjEzNjQsInRva2VuTW9kZWxWZXJzaW9uIjoiVjMifQ==
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-chno="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=500&updatedTime=2025-06-27T04%3A23%3A19Z",TV3
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://widevine-proxy.api.tm.quickplay.com/getlicense?service=tm&version=1.0&kid=6F9BD003-04A3-4972-A80E-5FF79AFF982F&ptoken=eyJjb250ZW50SWQiOiI2RjlCRDAwMy0wNEEzLTQ5NzItQTgwRS01RkY3OUFGRjk4MkYiLCJsaWNlbnNlRXhwaXJ5VGltZSI6MTc1MTc5OTk2ODE4MCwiZW50aXRsZWRDb250ZW50SWRzIjoiTmtZNVFrUXdNRE10TURSQk15MDBPVGN5TFVFNE1FVXROVVpHTnpsQlJrWTVPREpHIiwibWF4VXNlcyI6MSwic2lnbmF0dXJlIjoiNTM4YTg5ZmExZTNkMWFmNDBmY2QyYzkzYWJjNTZkNjAzMGY1YjJhODRjZjQxNWIyNTQyMTQzYmNlYTVkODMzMiIsInVuaXF1ZUlkIjoiMmNmNmQxYjE4YTk2ZDQxYyIsImlzc3VlciI6IlNJR05LRVlfUFRPS0VOX0NPTlNVTUVfSVNTVUVSIiwiYXBpS2V5IjoiYXBpS2V5Iiwia2V5VmVyc2lvbiI6InZlcnMwMSIsImV4cGlyeVRpbWUiOjE3NTE3NTY4MjgxODAsImNyZWF0ZWRUaW1lIjoxNzUxNzU2NzY4MTgwLCJ0b2tlbk1vZGVsVmVyc2lvbiI6IlYzIn0=
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="Free TV" tvg-id="" tvg-chno="" ch-number="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4504543C-34AB-456E-940F-72431972DC9C/0-16x9.png?width=500&updatedTime=2025-06-27T06%3A09%3A49Z",DidikTV KPM
 https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Didik)/master.mpd
 
